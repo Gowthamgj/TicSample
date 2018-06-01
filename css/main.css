@@ -1,0 +1,39 @@
+/* .ads{
+    text-align: center;
+    margin: .4vw 0;
+    
+    padding: .4vw;
+  }
+   */
+  .content{
+    margin: .4vw 0;
+    /* background: lightblue; */
+    padding: .4vw;
+  }
+  .tic-panel{
+    /* border: solid 2px black; */
+    margin: .4vw 0;
+    /* background: #66A5AD; */
+    
+    padding: .4vw;
+  } 
+ .tick-row{
+      width:20px;
+      height:20%;
+  } 
+  .tic-box{
+    border: solid black 1px;
+    box-shadow: 3px 3px black;
+    font-size: 5vw;
+    width:20px;
+    height:100px;
+    /* background: #6AB187; */
+    text-align: center;
+    color: lavender;
+  }
+  /* .tic-box:hover{
+    background: #20948B;
+  } */
+  .maincontain{
+      margin-top: 130px;
+  }
